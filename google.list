@@ -1,18 +1,18 @@
-- DOMAIN-KEYWORD,youtube,📢 谷歌FCM
-- DOMAIN-KEYWORD,google,📢 谷歌FCM
-- DOMAIN,youtubei.googleapis.com,📢 谷歌FCM
-- DOMAIN,yt3.ggpht.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,googlevideo.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,gvt2.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,withyoutube.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtu.be,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtube-nocookie.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtube.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtubeeducation.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtubegaming.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,youtubekids.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,yt.be,📢 谷歌FCM
-- DOMAIN-SUFFIX,ytimg.com,📢 谷歌FCM
-- DOMAIN,music.youtube.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,gstatic.com,📢 谷歌FCM
-- DOMAIN-SUFFIX,google.com,📢 谷歌FCM
+- DOMAIN-KEYWORD,youtube
+- DOMAIN-KEYWORD,google
+- DOMAIN,youtubei.googleapis.com
+- DOMAIN,yt3.ggpht.com
+- DOMAIN-SUFFIX,googlevideo.com
+- DOMAIN-SUFFIX,gvt2.com
+- DOMAIN-SUFFIX,withyoutube.com
+- DOMAIN-SUFFIX,youtu.be
+- DOMAIN-SUFFIX,youtube-nocookie.com
+- DOMAIN-SUFFIX,youtube.com
+- DOMAIN-SUFFIX,youtubeeducation.com
+- DOMAIN-SUFFIX,youtubegaming.com
+- DOMAIN-SUFFIX,youtubekids.com
+- DOMAIN-SUFFIX,yt.be
+- DOMAIN-SUFFIX,ytimg.com
+- DOMAIN,music.youtube.com
+- DOMAIN-SUFFIX,gstatic.com
+- DOMAIN-SUFFIX,google.com
